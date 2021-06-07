@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+*.log
+chromedriver.exe
+geckodriver.exe
+*__pycache__/
